@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\cpp\vc\ChatApp\client2\client2\main.cpp(22,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client2.vcxproj -> E:\cpp\vc\ChatApp\client2\x64\Debug\client2.exe
